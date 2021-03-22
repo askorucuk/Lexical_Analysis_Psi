@@ -1,0 +1,15 @@
+if <*> 
+{  go <*>; 
+ make <*/*/project1/data>; 
+   if <*/*/ege/bilgisayar> 
+	go <muhendisligi>;
+   if <*>
+   {
+	make<izmir>
+   }		
+}
+ifnot <bornova> 
+{
+	go<*>;
+	make<fakulte>;
+}

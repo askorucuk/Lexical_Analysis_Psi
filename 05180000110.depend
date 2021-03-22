@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1592242189 source:c:\users\ceso\desktop\05180000110\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<ctype.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1592316112 source:c:\users\ceso\desktop\projepl\final\05180000110\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<ctype.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1592318292 source:c:\users\ceso\desktop\projepl\final\05180000110_05170000070\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<ctype.h>
+	<sys/stat.h>
+	<unistd.h>
+
